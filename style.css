@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+
+}
+#welcome {
+    color: black;
+    bottom: 0;
+    background: linear-gradient(#3cd6a5 40%, #3c93d6 60%);
+    width: 150%;
+    height: 50%;
+    display: table;
+    z-index: 9;
+
+}
+
+.parallax-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+.profile{
+  border-radius: 50%; 
+    height: 175px;
+    width: 175px;
+   
+    
+    
+}
+h1{
+  font-size: 25px;  
+  font-style: Serif ;
+    color:whitesmoke;
+    
+}  
+h2{
+   font-size: 20px; 
+    
+    color: whitesmoke;
+      
+}  
+ .my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999; 
+     width: 140%;
+  
+} 
+#bio{
+    text-align: left;
+    font-size: 15px;
+    padding-left: 20px;
+    width: 137%;
+    
+}
+h4{
+    text-align: center;
+    padding-left: 20px;
+    font-style:initial;
+    font-size: 20px;
+}
+
+
+
+
+
