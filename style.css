@@ -6,7 +6,7 @@ body {
     color: black;
     bottom: 0;
     background: linear-gradient(#3cd6a5 40%, #3c93d6 60%);
-    width: 150%;
+    width: 100%;
     height: 50%;
     display: table;
     z-index: 9;
@@ -21,8 +21,8 @@ body {
 }
 .profile{
   border-radius: 50%; 
-    height: 175px;
-    width: 175px;
+    height: 200px;
+    width: 200px;
    
     
     
@@ -43,14 +43,14 @@ h2{
     position: sticky;
     top: 0;
     z-index: 99999; 
-     width: 140%;
+  
   
 } 
 #bio{
     text-align: left;
     font-size: 15px;
     padding-left: 20px;
-    width: 137%;
+ 
     
 }
 h4{
@@ -59,8 +59,21 @@ h4{
     font-style:initial;
     font-size: 20px;
 }
-
-
-
-
-
+.interest{
+    text-align: left;
+    padding-left: 20px;
+    
+}
+h7{
+    font-size: 20px;
+    
+}
+h5{
+    text-align: left;
+    padding-left: 100px;
+    
+}
+.map{
+   padding-right: 50px; 
+    
+}
